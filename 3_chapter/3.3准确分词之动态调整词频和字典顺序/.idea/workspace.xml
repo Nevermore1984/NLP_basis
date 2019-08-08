@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7165a16-f2fc-470e-a3aa-ef68e911c716" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2准确分词之加载自定义字典分词/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/3.3准确分词之动态调整词频和字典顺序.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3.3准确分词之动态调整词频和字典顺序.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aTry.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cut_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/cut_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -39,7 +41,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cut_data">
+  <component name="RunManager" selected="Python.secTry">
+    <configuration name="aTry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3.3准确分词之动态调整词频和字典顺序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aTry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cut_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="3.3准确分词之动态调整词频和字典顺序" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cut_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="secTry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3.3准确分词之动态调整词频和字典顺序" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secTry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,9 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.secTry" />
+        <item itemvalue="Python.tokenizer" />
+        <item itemvalue="Python.aTry" />
         <item itemvalue="Python.cut_data" />
         <item itemvalue="Python.sort_dict_by_lenth" />
-        <item itemvalue="Python.tokenizer" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +173,8 @@
       <option name="presentableId" value="Default" />
       <updated>1551083756554</updated>
       <workItem from="1565164489565" duration="506000" />
+      <workItem from="1565229577507" duration="1190000" />
+      <workItem from="1565253384407" duration="498000" />
     </task>
     <servers />
   </component>
@@ -136,13 +186,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/3_3$cut_data.coverage" NAME="cut_data Coverage Results" MODIFIED="1565164942975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_3$secTry.coverage" NAME="secTry Coverage Results" MODIFIED="1565253703385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_3$tokenizer.coverage" NAME="tokenizer Coverage Results" MODIFIED="1565253681837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_3$aTry.coverage" NAME="aTry Coverage Results" MODIFIED="1565253520301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/3_3$cut_data.coverage" NAME="cut_data Coverage Results" MODIFIED="1565229758111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
